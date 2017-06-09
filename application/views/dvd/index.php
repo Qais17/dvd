@@ -1,4 +1,3 @@
-<h2><?php echo $title; ?></h2>
 
 <?php foreach ($dvd as $dvd_item): ?>
 
